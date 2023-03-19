@@ -1,1 +1,1 @@
-# SO2P
+# Systemy Operacyjne 2 - Projekt
